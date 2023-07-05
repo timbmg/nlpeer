@@ -13,7 +13,7 @@ from nlpeer.utils import list_dirs
 
 NTYPE_TITLE = "title"
 NTYPE_HEADING = "heading"
-NTYPE_PARAGRAPH = "paragraph"
+NTYPE_PARAGRAPH = "p"
 NTYPE_ABSTRACT = "abstract"
 NTYPE_LIST = "list"
 NTYPE_LIST_ITEM = "list_item"
