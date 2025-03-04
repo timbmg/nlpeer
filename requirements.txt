@@ -5,7 +5,7 @@ transformers==4.22.2
 datasets==2.6.1
 pytorch_lightning==1.7.7
 wandb==0.13.4
-sklearn==0.0
+scikit-learn>=1.6.1
 spacecutter==0.2.1
 plotly==5.11.0
 spacy==3.4.0
